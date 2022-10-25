@@ -32,3 +32,6 @@
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=radical)](https://github.com/gustavhuey/github-readme-stats)
+
+
+![snake gif](https://github.com/gustavhuey/gustavhuey/blob/output/github-contribution-grid-snake.svg)
