@@ -70,9 +70,9 @@
 ## GitHub Status 
 
 <div align="center">
-    <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
-    <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
-    <img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
+    <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
+    <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
 </div>
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
