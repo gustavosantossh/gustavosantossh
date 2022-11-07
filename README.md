@@ -14,20 +14,17 @@
 </details>
 
 
-<br>
+
 <hr>
-<br>
+
 <h2 align="center">🖥️ Web Developer 🗿🍷</h2>
 
-<br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-
-
 
 <p align="center"><img height="200px" src="https://user-images.githubusercontent.com/82613893/200207934-ab8bfb97-100a-4649-8a60-1c4b77716e96.gif"></p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<br><br>
+<br>
 <h2 align="center"> Tecnologias e ferramentas</h2>
 <br>
 
@@ -60,26 +57,22 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
-<br>
-
 <h2 align="center">Connect with me:<br></h2> <br>
 <p align="center">
 <a href="https://linkedin.com/in/gustavhueyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
 <a href="https://instagram.com/gustavossantossmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
 </p>
-<br>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
-<br>
 
 ## GitHub Status 
 
 <div align="center">
-    <img  height="120px"  src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
-    <img  height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
+    <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
+    <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
+    <img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
 </div>
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
