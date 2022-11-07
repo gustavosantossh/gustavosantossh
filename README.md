@@ -1,34 +1,88 @@
-### Olá! eu sou Gustavo Henrique 👋
+<h1 align="center"> Bem-Vindos, sou Gustavo Henrique 👋</h1>
 
-## Tecnologias
+<details> <summary>
+    <h2>About me:</h2>
+</summary>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+```md
+- Brazilian developer 🇧🇷
+```
+```md
+- Front-end
+```
+
+</details>
+
+
+<br>
+<hr>
+<br>
+<h2 align="center">🖥️ Web Developer 🗿🍷</h2>
+
+<br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+
+
+<p align="center"><img height="200px" src="https://user-images.githubusercontent.com/82613893/200207934-ab8bfb97-100a-4649-8a60-1c4b77716e96.gif"></p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<br><br>
+<h2 align="center"> Tecnologias e ferramentas</h2>
+<br>
+
+<div align="center" style="display: inline_block">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Unbutu" width="40" height="40">
+<br><br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 </div>
+
+<details> <summary>
+    <h2>Workspace</h2>
+</summary>
+
+<ul>
+   <b>IDE:</b> Visual Studio Code <br>
+   <b>SO:</b> Linux - Unbutu <br>
+   <b>Notebook</b> :) <br>
+
+</ul>
+
+</details>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 <br>
 
-## Aprendendo
+<h2 align="center">Connect with me:<br></h2> <br>
+<p align="center">
+<a href="https://linkedin.com/in/gustavhueyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
+<a href="https://instagram.com/gustavossantossmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
+</p>
+<br>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 <br>
 
-## IDE
+## GitHub Status 
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<div align="center">
+    <img  height="199px"  src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
+    <img  height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
 </div>
 
-<br/>
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=radical)](https://github.com/gustavhuey/github-readme-stats)
+  
