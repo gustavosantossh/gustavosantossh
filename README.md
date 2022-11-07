@@ -77,8 +77,8 @@
 ## GitHub Status 
 
 <div align="center">
-    <img  height="199px"  src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
-    <img  height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
+    <img  height="120px"  src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
+    <img  height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
 </div>
 
