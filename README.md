@@ -19,11 +19,8 @@
 
 <h2 align="center">🖥️ Web Developer 🗿🍷</h2>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<p align="center"><img height="200px" src="https://user-images.githubusercontent.com/82613893/200207934-ab8bfb97-100a-4649-8a60-1c4b77716e96.gif"></p>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <br>
 <h2 align="center"> Tecnologias e ferramentas</h2>
 <br>
@@ -37,7 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Unbutu" width="40" height="40">
 <br><br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 </div>
@@ -48,7 +44,7 @@
 
 <ul>
    <b>IDE:</b> Visual Studio Code <br>
-   <b>SO:</b> Linux - Unbutu <br>
+   <b>SO:</b> Windows 10 <br>
    <b>Notebook</b> :) <br>
 
 </ul>
