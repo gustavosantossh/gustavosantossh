@@ -1,5 +1,3 @@
-<h1 align="center"> Bem-Vindos, sou Gustavo Henrique 👋</h1>
-
 ## GitHub Status 
 
 <div align="center">
