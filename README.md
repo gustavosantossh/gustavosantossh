@@ -49,8 +49,6 @@
 
 </details>
 
-<br>
-
 <details open align="center">
 <summary>Back end</summary>
 <br>
@@ -64,7 +62,6 @@
 
 </details>
 
-<br>
 
 <details open align="center">
 <summary>Database</summary>
