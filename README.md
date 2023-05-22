@@ -1,90 +1,69 @@
-<h1>
-    <img src="public/images/Hello, my name is.png" alt="">
+<!-- Display name-->
+<h1 align="center">
+<img  height="35px" width="35px" src="./public/images/wave-hello.gif"> Hello, I'm Gustavo
 </h1>
-<!--
-<img align="right" src="public\images\Zenitsu Kimetsu No Yaiba GIF - Zenitsu Kimetsu No Yaiba Anime - Discover & Share GIFs.gif" heigth="300px" width="400px" -->
 
-🔭 I’m currently studying on becoming a software engineer.
+<h3 align="center">A passionate front-end developer from Brazil</h3><br>
 
-🌱 I’m currently learning React.
+<!-- Languages used -->
+<h3 align="center" style="font-size:24px;"> 🛠️ Languages and Tools:</h3>
+<br>
+<p align="center">
+<a href="https://www.w3schools.com/html/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
+</a>
+<a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</a>       
+<a href="https://github.com/gustavhuey"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>       
+</p>
 
-🔍 Take a look at my projects on Frontend Mentor!.
-
-💬 Ask me about HTML | CSS | JS
-
-🤝 I'm looking for help learning React
-
-💛 I’m looking to collaborate on developing new open-source projects.
-
+<h3 align="center" style="font-size:24px;">🖊️ Studying: </h3>
+<br>
+<p align="center">
+<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/pt-br/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+</a>
+</p>
 <br>
 
-<h1 align="center">Social medias</h1>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gustavhueyy/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<!--Contribution Graph-->
+<a href="https://github.com/gustavhuey/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
 </a>
 
-</div>
-
-<h1 align="center">Languages</h1>
-
+<!-- Github status -->
 <details open align="center">
-<summary>Studying</summary>
-
+<summary align="left" ><span style="font-size:20px;">⭐ Github Status</span></summary>
 <br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
+<img src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
 </details>
-
 <br>
+<!-- Conts visits profile-->
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:gustavhuey?theme=gelbooru"></a>
+</p>
 
-<details open align="center">
-<summary>Front End</summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open align="center">
-<summary>Back end</summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-
-<details open align="center">
-<summary>Database</summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<br>
-
-<h1 align="center">Github Status</h1>
-
-<div align="center">
-<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=midnight-purple" />
-<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=midnight-purple">
-<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=midnight-purple" alt="gustavhuey"/>
-</div>
-
-<br>
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/82613893/236368918-0c0cba9b-e26f-4936-98b5-3edb519502fe.gif)
-
-
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+<p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
