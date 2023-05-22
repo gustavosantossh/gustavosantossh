@@ -51,14 +51,16 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
 </a>
 
-<!-- Github status -->
-<details open align="center">
-<summary align="left" ><span style="font-size:20px;">⭐ Github Status</span></summary>
 <br>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
+<!-- Github status -->
+<details open align="center">
+<summary align="left" ><span style="font-size:28px;">⭐ Github Status</span></summary>
+<br>
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
 </details>
 <br>
 <!-- Conts visits profile-->
