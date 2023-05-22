@@ -56,9 +56,9 @@
 <summary align="left" ><span style="font-size:20px;">⭐ Github Status</span></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
 </details>
 <br>
 <!-- Conts visits profile-->
