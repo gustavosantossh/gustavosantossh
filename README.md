@@ -47,7 +47,7 @@
 <br>
 
 <!--Contribution Graph-->
-<a href="https://github.com/gustavhuey/github-readme-activity-graph">
+<a href="https://github.com/gustavhuey">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
 </a>
 
