@@ -52,10 +52,11 @@
 </a>
 
 <br>
+<br>
 
 <!-- Github status -->
 <details open align="center">
-<summary align="left" ><span style="font-size:28px;">⭐ Github Status</span></summary>
+<summary align="left" style="font-size:22px;"><strong>⭐ Github Status</strong></summary>
 <br>
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
