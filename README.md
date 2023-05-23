@@ -40,16 +40,18 @@
 <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/pt-br/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-<a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </a>
+<a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </a>
 </p>
 <br>
 
-<!--Contribution Graph-->
+<!--Contribution Graph
+
 <a href="https://github.com/gustavhuey">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
 </a>
+-->
 
 <br>
 <br>
