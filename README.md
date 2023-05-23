@@ -3,7 +3,7 @@
 <img  height="35px" width="35px" src="./public/images/wave-hello.gif"> Hello, I'm Gustavo
 </h1>
 
-<h3 align="center">A passionate front-end developer from Brazil</h3><br>
+<h3 align="center">A passionate front-end developer from Brazil</h3> <hr>
 
 <!-- Languages used -->
 <h3 align="center" style="font-size:24px;"> 🛠️ Languages and Tools:</h3>
@@ -44,7 +44,7 @@
 <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </a>
 </p>
-<br>
+<br> <hr>
 
 <!--Contribution Graph
 
