@@ -46,12 +46,11 @@
 </p>
 <br> <hr>
 
-<!--Contribution Graph
+Contribution Graph
 
 <a href="https://github.com/gustavhuey">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
 </a>
--->
 
 <br>
 <br>
