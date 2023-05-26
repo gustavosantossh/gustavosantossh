@@ -49,7 +49,7 @@
 Contribution Graph
 
 <a href="https://github.com/gustavhuey">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gustavhuey&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavhuey&theme=react-dark">
 </a>
 
 <br>
