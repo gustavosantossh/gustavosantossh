@@ -46,7 +46,7 @@
 </p>
 <br> <hr>
 
-Contribution Graph
+<h4>🏆 Contribution Graph</h4>
 
 <a href="https://github.com/gustavhuey">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavhuey&theme=react-dark">
