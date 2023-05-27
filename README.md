@@ -4,7 +4,8 @@
 </h1>
 
 <h3 align="center">A passionate front-end developer from Brazil</h3>
-<hr>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 <!-- Languages used -->
 <h3 align="center" style="font-size:24px;"> 🛠️ Languages and Tools:</h3>
@@ -45,7 +46,10 @@
 <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </a>
 </p>
-<br> <hr>
+<br> 
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+
 
 <h4>🏆 Contribution Graph</h4>
 
