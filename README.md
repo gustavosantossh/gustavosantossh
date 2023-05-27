@@ -27,7 +27,7 @@
 </a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </a>       
-<a href="https://github.com/gustavhuey"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<a href="https://github.com/byguhdev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>       
 </p>
 
@@ -49,8 +49,8 @@
 
 <h4>🏆 Contribution Graph</h4>
 
-<a href="https://github.com/gustavhuey">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavhuey&theme=react-dark">
+<a href="https://github.com/byguhdev">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byguhdev&theme=react-dark">
 </a>
 
 <br>
@@ -61,14 +61,14 @@
 <summary align="left" style="font-size:22px;"><strong>⭐ Github Status</strong></summary>
 <br>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavhuey&show_icons=true&theme=tokyonight">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavhuey&layout=compact&theme=tokyonight">
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavhuey&theme=tokyonight">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=byguhdev&show_icons=true&theme=tokyonight">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&layout=compact&theme=tokyonight">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight">
 </details>
 <br>
 <!-- Conts visits profile-->
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:gustavhuey?theme=gelbooru"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:byguhdev?theme=gelbooru"></a>
 </p>
 
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
