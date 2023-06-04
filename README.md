@@ -68,7 +68,7 @@
 <summary align="left" ><span style="font-size:20px;">⭐ Github Status</span></summary>
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="195px"   src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
 </details>
