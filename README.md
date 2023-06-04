@@ -51,18 +51,6 @@
 
 </p>
 <br>
-
-<!--Contribution Graph-->
-<details open>
-<summary align="left" ><span style="font-size:24px;">🏆 GitHub Graph</span></summary>
-<br>
-
-<a href="https://github.com/byguhdev/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byguhdev&theme=react-dark">
-</a>
-
-</details>
-
 <!-- Github status -->
 <details align="center" open>
 <summary align="left" ><span style="font-size:24px;">⭐ Github Status</span></summary>
@@ -82,6 +70,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=byguhdev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 </details>
+
+<!--Contribution Graph-->
+<details open>
+<summary align="left" ><span style="font-size:24px;">🏆 GitHub Graph</span></summary>
+<br>
+
+<a href="https://github.com/byguhdev/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byguhdev&theme=react-dark">
+</a>
+
+</details>
+
+
+
 
 <br>
 
