@@ -29,7 +29,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,php" />
   </a>
 </p>
 
