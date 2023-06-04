@@ -54,7 +54,7 @@
 
 <!--Contribution Graph-->
 <details open>
-<summary align="left" ><span style="font-size:20px;">🏆 GitHub Graph</span></summary>
+<summary align="left" ><span style="font-size:24px;">🏆 GitHub Graph</span></summary>
 <br>
 
 <a href="https://github.com/byguhdev/github-readme-activity-graph">
@@ -65,18 +65,18 @@
 
 <!-- Github status -->
 <details align="center" open>
-<summary align="left" ><span style="font-size:20px;">⭐ Github Status</span></summary>
+<summary align="left" ><span style="font-size:24px;">⭐ Github Status</span></summary>
 <br>
 
-<img height="190px"   src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
 </details>
 
 
 <!-- Github Trophies -->
 <details align="center" open>
-<summary align="left" ><span style="font-size:20px;">🏆 GitHub Trophies</span></summary>
+<summary align="left" ><span style="font-size:24px;">🏆 GitHub Trophies</span></summary>
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=byguhdev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
