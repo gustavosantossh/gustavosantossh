@@ -4,17 +4,18 @@
 </h1>
 
 <pre>
-🔭 I am currently focused on improving my skills and expanding my knowledge as a frontend developer.👯 I’m looking to collaborate on
+🔭 I am currently focused on improving my skills and expanding my knowledge as a frontend developer.
+👯 I’m looking to collaborate on
 🤝 I’m looking for help with React
 🌱 I’m currently learning React
 💬 Ask me about HTML | CSS | JS
 ⚡ Fun fact ++ 5h online on vscode per day
 </pre>
-<h3 align="center">A passionate front-end developer from Brazil</h3><br>
+<h3 align="center">A passionate front-end developer from Brazil</h3>
 
 <!-- Languages ​​used -->
 <h1 style="font-size:24px;">💻 Tech Stack:</h1>
-<br>
+
 <h3 style="font-size:24px;">🧙 Frontend:</h3>
 <br>
 
@@ -24,9 +25,7 @@
   </a>
 </p>
 <!-- Languages ​​used -->
-<br>
-<h3 style="font-size:24px;">🧙 Backend:</h3>
-<br>
+<h3 style="font-size:24px;">🗄️ Backend:</h3>
 
 <p>
   <a href="https://skillicons.dev">
@@ -35,7 +34,6 @@
 </p>
 
 <h3 style="font-size:24px;">📚 Studying: </h3>
-<br>
 <p>
 
 <a href="https://skillicons.dev">
@@ -43,7 +41,6 @@
 </a>
 
 </p>
-<br>
 <h3 style="font-size:24px;">🧰 Tools: </h3>
 <br>
 <p>
