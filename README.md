@@ -82,9 +82,6 @@
 
 </details>
 
-
-
-
 <br>
 
 ### ✍️ Random Dev Quote
@@ -96,6 +93,5 @@
 </p>
 
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
-
 
 <!-- this IS a big commit update -->
