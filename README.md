@@ -4,7 +4,8 @@
 </h1>
 
 <pre>
-🔭 I am currently focused on improving my skills and expanding my knowledge as a frontend developer.
+🔭 I am currently focused on improving my skills and expanding
+my knowledge as a frontend developer.
 👯 I’m looking to collaborate on
 🤝 I’m looking for help with React
 🌱 I’m currently learning React
