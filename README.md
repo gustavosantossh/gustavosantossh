@@ -22,15 +22,7 @@ as a frontend developer.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-  </a>
-</p>
-<!-- Languages ​​used -->
-<h3 style="font-size:24px;">🗄️ Backend:</h3>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php" />
   </a>
 </p>
 
