@@ -12,7 +12,7 @@ as a frontend developer.
 💬 Ask me about HTML | CSS | JS
 ⚡ Fun fact ++ 5h online on vscode per day
 </pre>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+<h3 align="center">A passionate front-end developer from Brazil 🇧🇷 </h3>
 
 <!-- Languages ​​used -->
 <h1 style="font-size:24px;">💻 Tech Stack:</h1>
