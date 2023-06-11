@@ -15,14 +15,15 @@ as a frontend developer.
 <h3 align="center">A passionate front-end developer from Brazil</h3>
 
 <!-- Languages ​​used -->
+
 <h1 style="font-size:24px;">💻 Tech Stack:</h1>
 
-<h3 style="font-size:24px;">🧙 Frontend:</h3>
+<h3 style="font-size:24px;">🧙 Skills:</h3>
 <br>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,php,mysql" />
   </a>
 </p>
 
@@ -31,15 +32,6 @@ as a frontend developer.
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,py,nodejs,express,scss" />
-</a>
-
-</p>
-<h3 style="font-size:24px;">🧰 Tools: </h3>
-<br>
-<p>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" />
 </a>
 
 </p>
@@ -53,7 +45,6 @@ as a frontend developer.
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
 </details>
-
 
 <!-- Github Trophies -->
 <details align="center" open>
@@ -78,6 +69,7 @@ as a frontend developer.
 <br>
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Conts visits profile-->
