@@ -23,7 +23,7 @@ as a frontend developer.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,mysql" />
   </a>
 </p>
 
