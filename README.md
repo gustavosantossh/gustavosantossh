@@ -80,3 +80,5 @@ as a frontend developer.
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
 
 <!-- this IS a big commit update -->
+
+<!-- Esses dias to meio parado so -->
