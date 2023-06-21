@@ -79,6 +79,6 @@ as a frontend developer.
 
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
 
-<!-- LOLLLLL -->
+<!-- LOLLLLL hihi-->
 
 <!-- Esses dias to meio parado so -->
