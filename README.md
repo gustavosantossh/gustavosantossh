@@ -81,4 +81,4 @@ as a frontend developer.
 
 <!-- LOLLLLL hihi-->
 
-<!-- Esses dias to meio parado so -->
+<!-- Fiquei sem tempo hoje lol :( -->
