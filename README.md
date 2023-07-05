@@ -2,7 +2,7 @@
 <h1 style="font-size:24px;">💻 Tech Stack:</h1>
 Languages ​​used -->
 
-<h3 style="font-size:24px;">🧙 Skills:</h3>
+<h2 style="font-size:24px;">🧙 Skills:</h2>
 <br>
 
 <p>
@@ -11,7 +11,7 @@ Languages ​​used -->
   </a>
 </p>
 
-<h3 style="font-size:24px;">📚 Studying: </h3>
+<h2 style="font-size:24px;">📚 Studying: </h2>
 <p>
 
 <a href="https://skillicons.dev">
@@ -21,14 +21,9 @@ Languages ​​used -->
 </p>
 <br>
 <!-- Github status -->
-<details align="center" open>
-<summary align="left" ><span style="font-size:24px;">⭐ Github Status</span></summary>
-<br>
-
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
-</details>
 
 <!-- Github Trophies 
 <details align="center" open>
