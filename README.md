@@ -15,7 +15,7 @@ Languages ​​used -->
 <p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,py,nodejs,express,scss" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,scss" />
 </a>
 
 </p>
@@ -30,14 +30,14 @@ Languages ​​used -->
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
 </details>
 
-<!-- Github Trophies -->
+<!-- Github Trophies 
 <details align="center" open>
 <summary align="left" ><span style="font-size:24px;">🏆 GitHub Trophies</span></summary>
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=byguhdev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 </details>
+-->
 
 <!--Contribution Graph-->
 <details open>
