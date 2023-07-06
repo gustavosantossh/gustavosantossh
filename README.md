@@ -21,10 +21,10 @@ Languages ​​used -->
 </p>
 <br>
 <!-- Github status -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=tokyonight&hide_border=true">
-
+<div>
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=byguhdev&theme=highcontrast&hide_border=true">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</div>
 <!-- Github Trophies 
 <details align="center" open>
 <summary align="left" ><span style="font-size:24px;">🏆 GitHub Trophies</span></summary>
