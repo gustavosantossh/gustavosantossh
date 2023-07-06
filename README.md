@@ -40,7 +40,7 @@ Languages ​​used -->
 <br>
 
 <a href="https://github.com/byguhdev/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=byguhdev&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byguhdev&theme=modern-lilac">
 </a>
 
 </details>
