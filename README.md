@@ -75,4 +75,4 @@ as a frontend developer.
 <h3 align="center">A passionate front-end developer from Brazil 🇧🇷 </h3>
 -->
 
-<!-- Foi um dia corrido hj:( -->
+<!-- Foi um dia corrido hj:( antes que seja tarde demais. -->
