@@ -72,7 +72,5 @@ as a frontend developer.
 💬 Ask me about HTML | CSS | JS
 ⚡ Fun fact ++ 5h online on vscode per day
 </pre>
-<h3 align="center">A passionate front-end developer from Brazil 🇧🇷 </h3>
+<h3 align="center">A passionate front-end developer from Brazil 🇧🇷 </h3
 -->
-
-<!-- Foi um dia corrido hj:( antes que seja tarde demais. -->
