@@ -63,14 +63,4 @@ Languages ​​used -->
 <h1>
 <img  height="35px" width="35px" src="./public/images/wave-hello.gif"> 💫 About Me:
 </h1>
-<pre>
-🔭 I am currently focused on improving my skills and expanding my knowledge
-as a frontend developer.
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with React
-🌱 I’m currently learning React
-💬 Ask me about HTML | CSS | JS
-⚡ Fun fact ++ 5h online on vscode per day
-</pre>
-<h3 align="center">A passionate front-end developer from Brazil 🇧🇷 </h3
 -->
