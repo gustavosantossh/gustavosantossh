@@ -26,9 +26,6 @@ Languages ​​used -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byguhdev&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 <!-- Github Trophies 
-<details align="center" open>
-<summary align="left" ><span style="font-size:24px;">🏆 GitHub Trophies</span></summary>
-<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=byguhdev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 </details>
