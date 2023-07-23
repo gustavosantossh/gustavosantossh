@@ -53,14 +53,3 @@ Languages ​​used -->
 </p>
 
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
-
-<!-- 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
- Display name
-<h1>
-<img  height="35px" width="35px" src="./public/images/wave-hello.gif"> 💫 About Me:
-</h1>
--->
