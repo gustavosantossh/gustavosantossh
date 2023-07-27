@@ -24,7 +24,12 @@ Languages ​​used -->
 <div>
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoWong&theme=highcontrast&hide_border=true">
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWong&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
+
 <!-- Github Trophies 
 
 ![](https://github-profile-trophy.vercel.app/?username=GustavoWong&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
