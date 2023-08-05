@@ -15,7 +15,7 @@ Languages ​​used -->
 <p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
 </p>
