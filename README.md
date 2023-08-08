@@ -51,4 +51,4 @@ Languages ​​used -->
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GustavoWong?theme=gelbooru"></a>
 </p>
 
-<p align="center" style="color:#999999;">Made With ❤️ by Gustavo</p>
+<p align="center" style="color:#999999;">Made With ❤️ by Gustavo :) </p>
