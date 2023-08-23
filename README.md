@@ -32,7 +32,7 @@ Languages ​​used -->
 ![](https://github-profile-trophy.vercel.app/?username=GustavoWong&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 </details>
 
-scientist ~ pyshics ~ matematics
+pyshics ~ matematics
 -->
 
 <!--Contribution Graph-->
