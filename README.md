@@ -32,7 +32,7 @@ Languages ​​used -->
 ![](https://github-profile-trophy.vercel.app/?username=GustavoWong&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 </details>
 
-gripei ;-;
+hoje nao deu mais quem sabe amanhã?
 -->
 
 <!--Contribution Graph-->
