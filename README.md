@@ -1,6 +1,6 @@
 <!--
 <h1 style="font-size:24px;">💻 Tech Stack:</h1>
-Languages ​​used -->
+Languages ​​used by my -->
 
 <h2 style="font-size:24px;">🧙 Skills:</h2>
 <br>
