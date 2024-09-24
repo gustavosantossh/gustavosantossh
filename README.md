@@ -17,7 +17,7 @@ Languages ​​used by my -->
 <p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </a>
 
 </p>
