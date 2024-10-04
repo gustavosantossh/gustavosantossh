@@ -50,9 +50,9 @@ hoje nao deu mais quem sabe amanhã?
 
 <br>
 
-<!-- Conts visits profile-->
+<!-- Conts visits profile
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GustavoWong?theme=gelbooru"></a>
 </p>
-
+-->
 <p align="center" style="color:#999999;">Made With ❤️ by Gustavo :) </p>
