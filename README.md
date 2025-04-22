@@ -1,4 +1,4 @@
-👋😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. </br>
+### 👋😉  Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. </br>
 
 🌟 Informações Públicas: 
 Meu nome é Gustavo (também conhecido(a) como @gustavosantossh no GitHub. </br>
